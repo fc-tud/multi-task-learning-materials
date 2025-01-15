@@ -1,0 +1,17 @@
+name: h2o_test
+channels:
+  - conda-forge
+  - h2oai
+dependencies:
+  - h2o
+  - matplotlib
+  - nevergrad
+  - numpy
+  - pandas
+  - python
+  - pip
+  - plotly
+  - scikit-learn
+  - scikit-optimize
+  - pip:
+    - tqdm

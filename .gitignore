@@ -1,0 +1,8 @@
+# ignore cache dirs
+.ipynb_checkpoints
+.idea
+__pycache__/
+
+# ignore working dirs
+workdir
+
